@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_select2-_KM_TIPE_REGSENT-container</name>
+   <tag></tag>
+   <elementGuidId>b7f4ab75-60fb-48e2-8cd8-8d85705500ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-_KM_TIPE_REGSENT-container']//*[@title = '- select -']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-_KM_TIPE_REGSENT-container&quot;] [title=&quot;-\ select\ -&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#select2-_KM_TIPE_REGSENT-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d8d3540-2e5b-48d4-9c18-6d75cfdc6502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>b81675ef-7de3-46d5-9569-1b9ca4fe12c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-_KM_TIPE_REGSENT-container</value>
+      <webElementGuid>d0a89857-72ff-458a-ae48-210a8c05106c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>- select -</value>
+      <webElementGuid>1c9ce244-e136-4ac9-9f21-f2a440c2ce63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- select -</value>
+      <webElementGuid>ca2d7832-ff0b-43ad-8ff7-e778ab7f8d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e3b6d3a2b75167c90ce446588942e6df</value>
+      <webElementGuid>30f5099e-ade1-4504-a307-a4925877aae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-_KM_TIPE_REGSENT-container']//*[@title = '- select -']</value>
+      <webElementGuid>a5dbb2ec-fb94-4c14-8f4a-e32f062f9afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/create client/Page_NWK ERP/iframe_renderHier</value>
+      <webElementGuid>a87726ac-2591-4b78-955f-7e6675e76228</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-_KM_TIPE_REGSENT-container']//*[@title = '- select -']</value>
+      <webElementGuid>e2325c70-37b9-4103-9fc6-311a9593bdee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-_KM_TIPE_REGSENT-container' and @title = '- select -' and (text() = '- select -' or . = '- select -')]</value>
+      <webElementGuid>c8923ba1-465a-4987-9a01-a92b269bbae7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

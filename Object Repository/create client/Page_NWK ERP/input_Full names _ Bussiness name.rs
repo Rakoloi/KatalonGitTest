@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Full names _ Bussiness name</name>
+   <tag></tag>
+   <elementGuidId>422cda6f-1b07-412e-bf6a-28bb5bfb2c64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = '_KM_NAAM']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#_KM_NAAM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Full names / Bussiness name*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c7791bed-fbfc-4eb9-bf34-37a694672817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>dc88f08a-cc75-4904-abb0-79cf625f9def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>_KM_NAAM</value>
+      <webElementGuid>54e7d544-db43-4947-ae42-ec502a2cc16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_KM_NAAM</value>
+      <webElementGuid>594b713e-88b9-4965-947d-adcb6aa24a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-field control form-control modifier-uppercase</value>
+      <webElementGuid>d242652c-0c25-4ed9-94ce-4a09edd628c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>80</value>
+      <webElementGuid>ee1742a7-f8f0-4363-8b26-05dd3e1df8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a829a84604f45614e69cbdb4346ba0bc</value>
+      <webElementGuid>5caa7a18-8adf-41fd-8611-c768c09f7fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = '_KM_NAAM']</value>
+      <webElementGuid>e6c01d7d-8092-4185-afc8-43ade3a3fba0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/create client/Page_NWK ERP/iframe_renderHier</value>
+      <webElementGuid>f91a9efb-8880-4390-9425-670ac4362a91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = '_KM_NAAM']</value>
+      <webElementGuid>1274d285-1e85-49af-8448-5906c2958f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = '_KM_NAAM' and @id = '_KM_NAAM']</value>
+      <webElementGuid>64a3ae30-19cc-45db-9122-3c9c0d8310c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

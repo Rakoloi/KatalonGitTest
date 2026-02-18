@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_</name>
+   <tag></tag>
+   <elementGuidId>face5716-7816-4bd2-a10c-8d146fd974b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' Zebra_DatePicker ') and contains(concat(' ', normalize-space(@class), ' '), ' dp_visible ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dp_previous ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.Zebra_DatePicker.dp_visible .dp_previous</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;«&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d0d3df42-8660-4b01-8324-6e3f3be1703a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dp_previous</value>
+      <webElementGuid>492b92d7-652a-4197-a016-a5ee1ad26396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>«</value>
+      <webElementGuid>553a2730-4b94-465f-905e-51d89ebbab47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-33dfb9b747a6b206c2fef16f1b9b8977</value>
+      <webElementGuid>89742095-2ca8-48cb-b58b-7c195d907a7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' Zebra_DatePicker ') and contains(concat(' ', normalize-space(@class), ' '), ' dp_visible ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dp_previous ')]</value>
+      <webElementGuid>624e554b-4bdc-4acc-924f-7c61486c5298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/create client/Page_NWK ERP/iframe_renderHier</value>
+      <webElementGuid>2d068557-1071-4c9f-8d6b-aa9ae507f236</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' Zebra_DatePicker ') and contains(concat(' ', normalize-space(@class), ' '), ' dp_visible ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dp_previous ')]</value>
+      <webElementGuid>e5cc315b-b4c0-4cc3-b69e-2a11ad5f1a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '«' or . = '«')]</value>
+      <webElementGuid>8f039303-a241-4441-8035-2a4d9c9d514a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

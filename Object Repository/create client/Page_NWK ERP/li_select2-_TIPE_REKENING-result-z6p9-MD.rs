@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_select2-_TIPE_REKENING-result-z6p9-MD</name>
+   <tag></tag>
+   <elementGuidId>c3a36a81-e1d2-4c42-93ba-033bf14b1eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(@role = 'treeitem') and (position() = 2)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[role=&quot;treeitem&quot;]:nth-child(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Monthly accounts (Miscellaneous) (ZD and other Z accounts)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0b3efeba-b053-4d7a-aa26-1977f7cb8776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>0df30854-9a26-4caa-bde4-73fa7ab0f75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-_TIPE_REKENING-result-z6p9-MD</value>
+      <webElementGuid>c759f4a1-634d-4421-badc-4ce01ce99b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>baff064c-84cd-49cd-b357-51b0fb3f6360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>08580fd9-e831-4ddd-88e5-41537724cb3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monthly accounts (Miscellaneous) (ZD and other Z accounts)</value>
+      <webElementGuid>8ce0fb71-c662-4732-93e7-f4a69565bfc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8d17ec8aa3bc2989b9f10ca0849b066f</value>
+      <webElementGuid>a1714511-1d90-4bc8-b968-a87acac93ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@role = 'treeitem') and (position() = 2)]</value>
+      <webElementGuid>a633d0d3-49a5-4d3a-995a-a28f992aaf72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/create client/Page_NWK ERP/iframe_renderHier</value>
+      <webElementGuid>94ec3d4c-3c82-4b16-b93a-3ac65168c3a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@role = 'treeitem') and (position() = 2)]</value>
+      <webElementGuid>f73625f7-32ce-493e-8c24-fafd24d3a8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-_TIPE_REKENING-result-z6p9-MD' and (text() = 'Monthly accounts (Miscellaneous) (ZD and other Z accounts)' or . = 'Monthly accounts (Miscellaneous) (ZD and other Z accounts)')]</value>
+      <webElementGuid>dc617d59-7d11-4f98-afaa-4293e758b787</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

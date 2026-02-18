@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>nwk login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26bf1f13-06ff-44e6-8c77-1a35a9ecd542</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1b706446-1d8e-47cf-94a9-168d9e1dd090</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/NWK login credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1b706446-1d8e-47cf-94a9-168d9e1dd090</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>6fe0bbc8-1023-4410-a86b-d1760de0868e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1b706446-1d8e-47cf-94a9-168d9e1dd090</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>passwords</value>
+      <variableId>fb13ccd8-af73-4a71-b346-096b0a4768a7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6fe0bbc8-1023-4410-a86b-d1760de0868e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fb13ccd8-af73-4a71-b346-096b0a4768a7</id>
+      <masked>false</masked>
+      <name>passwords</name>
+   </variable>
+</TestCaseEntity>

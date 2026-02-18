@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_select2-_DIV_STAAT_DRUK-container</name>
+   <tag></tag>
+   <elementGuidId>b92cff9a-9540-4b92-96af-f3efd197c186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'select2-_DIV_STAAT_DRUK-container']//*[@title = '- select -']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;select2-_DIV_STAAT_DRUK-container&quot;] [title=&quot;-\ select\ -&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#select2-_DIV_STAAT_DRUK-container</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec19606c-f654-4b86-85c9-ee80ddadbcbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>4e997b00-1923-4fe6-bf58-93d92ee58788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-_DIV_STAAT_DRUK-container</value>
+      <webElementGuid>7a5f6712-824a-4587-8b5a-3a226aa41174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>- select -</value>
+      <webElementGuid>1a05ee40-0d4e-4946-a9c0-d434eb5083ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- select -</value>
+      <webElementGuid>a433e55b-d052-4101-bf94-079491c855fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5c0fc6eb524edf99005ee53410cdf54d</value>
+      <webElementGuid>9466a35c-bd5f-4188-9b51-1d23d2fd4983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-_DIV_STAAT_DRUK-container']//*[@title = '- select -']</value>
+      <webElementGuid>6f3167b5-abd1-41c1-b5f1-77369551af7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/create client/Page_NWK ERP/iframe_renderHier</value>
+      <webElementGuid>25d791c8-b7b7-415a-bd86-0e2a11c88421</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'select2-_DIV_STAAT_DRUK-container']//*[@title = '- select -']</value>
+      <webElementGuid>c2e2bd86-2b86-4105-82f0-7a43eeac8234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-_DIV_STAAT_DRUK-container' and @title = '- select -' and (text() = '- select -' or . = '- select -')]</value>
+      <webElementGuid>240cb561-79d6-477e-9920-2230cbfc508d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
